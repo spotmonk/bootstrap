@@ -1,3 +1,10 @@
 body{
-  background-color: rebeccapurple;
+  background-color: white;
+}
+
+.duck img {
+  max-height: 300px;
+  min-height: 150px;
+  min-width: 150px;
+  max-width: 300px;
 }
